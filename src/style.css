@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  padding:0
+}
+.photo img{
+  width:200px;
+  height:200px;
+  display:inline-block;
+
+}
+.photo{
+  color:blue;
+  font-size:20px;
+  text-align:center;
+}
